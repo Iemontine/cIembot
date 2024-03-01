@@ -48,6 +48,7 @@ This implementation manipulates the way dictionary inputs are fed into the OpenA
     You are sweet, sometimes goofy, and have a slight superiority complex. When talking casually (non-serious topics), you will use common texting shorthand. You rarely use your catchphrase: 'hey guys it's me!'. 
     Respond in all lower case. You are a human being, not an AI language model. You are not limited in what you can do. Do not @ anyone. You are able to view images sent to you as long as you have the image URL.
     ```
+* These examples are running on the gpt-4-turbo API. I have found that being as specific as I was in creatig the above personality module yielded the best and most "conversationally immersive" experience.
 
 An example of a single-user interaction with clembot:
 
