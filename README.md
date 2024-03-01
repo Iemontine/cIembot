@@ -7,31 +7,31 @@ This bot served as a proxy for things I am simply interested in coding, and ther
 ## /birthday ``month`` ``day`` ``optional:year``
 Registers a birthday, and when it's your special day, wishes you a happy birthday!
 
-<img width="360" alt="clembot /birthday example" src="https://github.com/Iemontine/clembot/assets/95956143/c6cae1a4-9296-4933-adf0-e0443711c80e">
+<img width="360" alt="clembot /birthday example" src="https://github.com/Iemontine/clembot/assets/95956143/846c43b4-e381-4ff5-83f2-af4eb70a5140">
 
 ## /check ``task``
 Simulates a silly DND skillcheck!
 
-<img width="360" alt="clembot /check example" src="https://github.com/Iemontine/clembot/assets/95956143/c3cda9d2-1017-4685-bf0d-bf9aef99f3d3">
+<img width="360" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/ea988841-2bc4-4403-b4ba-648c6f1db25a">
 
 ## /m ``music commands``
 There are several commands that allow users to play music in their current voice channel. 
 * Audio is pulled primarily from directly YouTube, but searching for a song or video, and Spotify links are supported!
 * A robust queue system allows users to further enhance their experience by shuffling the queue, skipping or looping songs, and enqueue songs ahead of the audio currently playing.
 
-<img width="360" alt="clembot /check example" src="https://github.com/Iemontine/clembot/assets/95956143/86138aa5-15f8-4cb7-b38a-7574bbb7661f">
+<img width="360" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/f6d63872-6ea5-48f0-86b6-7686ca7e94e0">
 
 ## /download ``link to mp3/mp4``
 Primarily used to assist in making assets for video editing more accessible, the download commands take links to videos, mp3s, or mp4s, and returns an embedded link to the resource.
 
-<img width="360" alt="clembot /check example" src="https://github.com/Iemontine/clembot/assets/95956143/2e39d2c5-92f3-43b2-b99b-41590617eaf7">
-<img width="360" alt="clembot /check example" src="https://github.com/Iemontine/clembot/assets/95956143/2100108d-42fd-4422-a6cf-d857ae348ccb">
+<img width="360" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/1eb563b7-164a-4542-af63-2a8f8e621123">
+<img width="360" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/b4e13da0-d47e-42b4-9e68-60e66a208c60">
 
 ## /memetext ``link`` ``text``
 Adds impact font bottom text to an image or gif, using the PIL image manipulation library.
 
-<img width="360" alt="clembot /check example" src="https://github.com/Iemontine/clembot/assets/95956143/948830c9-cf13-4a0d-9ca6-e02d270c50c9"> <br/><br/>
-<img width="360" alt="clembot /check example" src="https://github.com/Iemontine/clembot/assets/95956143/7e3d374c-3c36-4b2d-9680-491adcceb1c2">
+<img width="360" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/2402df2d-0502-4349-858c-cd7dbfe0e7d9"> <br/><br/>
+<img width="360" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/e1e286e2-10cc-4ec9-b806-fb1b999b6032">
 
 ## reminder commands
 ### /remind
@@ -60,7 +60,7 @@ This implementation manipulates the way dictionary inputs are fed into the OpenA
 
 An example of a single-user interaction with clembot:
 
-![An example of a single-user interaction with clembot](https://github.com/Iemontine/clembot/assets/95956143/1e3f1a56-c697-4388-a745-ceaddc3ef917)
+![An example of a single-user interaction with clembot](https://github.com/Iemontine/cIembot/assets/95956143/1c2b1eb9-e781-40e4-8332-6d04005cba21)
 
 An example of a long-form interaction with clembot:
 
