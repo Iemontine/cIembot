@@ -103,4 +103,4 @@ An example of a multi-user interaction with clembot:
 
 clembot is also able to distinguish between and converse with multiple users at once:
 
-<img width="750" alt="An example of a multi-user interaction with clembot" src="https://github.com/Iemontine/cIembot/assets/95956143/5a1d9cf7-49c7-4201-9e93-72bbc704f6f4">
+<img width="500" alt="An example of a multi-user interaction with clembot" src="https://github.com/Iemontine/cIembot/assets/95956143/5a1d9cf7-49c7-4201-9e93-72bbc704f6f4">
