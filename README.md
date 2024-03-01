@@ -38,7 +38,7 @@ As of right now, the gpt-4-turbo models are limited such that you cannot utilize
 I developed a work around for this, allowing users to simultaneously use function calling and image analysis at the same time.
 As of right now, I've only built in weather-accessing API to show this off.
 
-   * <img width="500" alt="Function calling + image analysis" src="https://github.com/Iemontine/cIembot/assets/95956143/52e26476-bbb8-4cf1-88e4-e303aa484a38">
+   * <img width="700" alt="Function calling + image analysis" src="https://github.com/Iemontine/cIembot/assets/95956143/bba6c2a6-4c60-46af-aaaa-4287590c24f7">
 
 # Commands
 
