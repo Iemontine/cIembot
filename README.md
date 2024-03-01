@@ -33,10 +33,17 @@ Adds impact font bottom text to an image or gif, using the PIL image manipulatio
 <img width="360" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/2402df2d-0502-4349-858c-cd7dbfe0e7d9"> <br/><br/>
 <img width="360" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/e1e286e2-10cc-4ec9-b806-fb1b999b6032">
 
-## reminder commands
-### /remind
-### /reminddate
+## reminder system
+Clembot is able to maintain and remind users per the request using the following commands
+### /remind ``time from now`` (ex: 1 hour 30 minutes, 1h30m, 1h 30m)
+![remind](https://github.com/Iemontine/cIembot/assets/95956143/04e9ea92-0803-4491-afa4-dac66e4b1e8a)
+
+### /reminddate ``exact date and time to remind``
+![reminddate](https://github.com/Iemontine/cIembot/assets/95956143/f4a36e2b-5e17-4a80-8d9e-9fafcd397d00)
+
 ### /reminders
+![image](https://github.com/Iemontine/cIembot/assets/95956143/9c971b01-8ce8-43f0-9f0e-6c39f7d0709d)
+
 ## image analysis commands
 ### /generate ``prompt``
 A direct API cal to DALL-E 3 image generation, returning the result of the prompt.
