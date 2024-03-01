@@ -49,6 +49,7 @@ Clembot is able to maintain and remind users per the request using the following
 ## image analysis commands
 ### /generate ``prompt``
 A direct API call to DALL-E 3 image generation, returning the result of the prompt.
+
 <img width="300" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/86817e86-13aa-4ab6-8ee3-78e9e3a795e2">
 ### /replace ``image`` ``object to be replaced`` ``what to replace it with``
 Using Microsoft Azure's computer vision object-detection API, a transparent mask is created around an object allowing DALL-E image models to fill in the details with another object.
