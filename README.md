@@ -43,7 +43,7 @@ As of right now, I've only built in weather-accessing API to show this off.
 # Commands
 
 ## reminder system
-Clembot is able to maintain and remind users per the request using the following commands
+Clembot is able to maintain reminders and remind users per their request using the following commands
 ### /remind ``time from now`` (ex: 1 hour 30 minutes, 1h30m, 1h 30m)
 
    * <img width="450" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/04e9ea92-0803-4491-afa4-dac66e4b1e8a">
