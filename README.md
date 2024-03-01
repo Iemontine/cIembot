@@ -34,8 +34,16 @@ Adds impact font bottom text to an image or gif, using the PIL image manipulatio
 <img width="360" alt="clembot /check example" src="https://github.com/Iemontine/clembot/assets/95956143/7e3d374c-3c36-4b2d-9680-491adcceb1c2">
 
 ## reminder commands
-
+### /remind
+### /reminddate
+### /reminders
 ## image analysis commands
+### /generate ``prompt``
+A direct API cal to DALL-E 3 image generation, returning the result of the prompt.
+### /replace ``image`` ``object to be replaced`` ``what to replace it with``
+Using Microsoft Azure's computer vision object-detection API, a transparent mask is created around an object allowing DALL-E image models to fill in the details with another object.
+### /variate ``image``
+A direct API call to DALL-E 2 image manipulation models allows users to obtain AI-generated variations of existing images.
 
 # Generative Chat Functionality
 This implementation manipulates the way dictionary inputs are fed into the OpenAI API to ensure chat features maintain its personality and instructions, essentially by constantly and token-minimally 'reminding' the LLM to act or respond a certain way. 
@@ -60,4 +68,5 @@ An example of a long-form interaction with clembot:
 
 clembot is also able to distinguish between and converse with multiple users at once:
 
-![An example of a multi-user interaction with clembot](https://cdn.discordapp.com/attachments/956436379078889492/1201611766623391837/clem_multiuser_example.png?ex=65ca732a&is=65b7fe2a&hm=c29dab351302384162ab30b9fd4a73586213abbd6c885bbfdb4e9024ddd990ff&)
+![An example of a multi-user interaction with clembot](https://github.com/Iemontine/cIembot/assets/95956143/ffbf6775-536e-4df9-9af3-ea0ceafefadc)
+
