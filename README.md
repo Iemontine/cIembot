@@ -77,8 +77,7 @@ Using Microsoft Azure's computer vision object-detection API, a transparent mask
 There are several commands that allow users to play music in their current voice channel. 
 * Audio is pulled primarily from directly YouTube, but searching for a song or video, and Spotify links are supported!
 * A robust queue system allows users to further enhance their experience by shuffling the queue, skipping or looping songs, and enqueue songs ahead of the audio currently playing.
-
-   * <img width="360" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/f6d63872-6ea5-48f0-86b6-7686ca7e94e0">
+* <img width="360" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/f6d63872-6ea5-48f0-86b6-7686ca7e94e0">
 
 ### /variate ``image``
 A direct API call to DALL-E 2 image manipulation models allows users to obtain AI-generated variations of existing images.
