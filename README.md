@@ -64,9 +64,8 @@ An example of a single-user interaction with clembot:
 
 An example of a long-form interaction with clembot:
 
-<img width="600" alt="An example of a long-form interaction with clembot" src="https://github.com/Iemontine/clembot/assets/95956143/c328275a-778e-4eeb-958a-9318cc66a13b">
+<img width="600" alt="An example of a long-form interaction with clembot" src="https://github.com/Iemontine/cIembot/assets/95956143/c328275a-778e-4eeb-958a-9318cc66a13b">
 
 clembot is also able to distinguish between and converse with multiple users at once:
 
-<img width="600" alt="An example of a multi-user interaction with clembot" src="https://github.com/Iemontine/clembot/assets/95956143/ffbf6775-536e-4df9-9af3-ea0ceafefadc">
-
+<img width="600" alt="An example of a multi-user interaction with clembot" src="https://github.com/Iemontine/cIembot/assets/95956143/ffbf6775-536e-4df9-9af3-ea0ceafefadc">
