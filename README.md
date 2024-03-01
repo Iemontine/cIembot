@@ -7,7 +7,7 @@ This bot served as a proxy for things I am simply interested in coding, and ther
 ## /birthday ``month`` ``day`` ``optional:year``
 Registers a birthday, and when it's your special day, wishes you a happy birthday!
 
-<img width="360" alt="clembot /birthday example" src="https://github.com/Iemontine/clembot/assets/95956143/846c43b4-e381-4ff5-83f2-af4eb70a5140">
+<img width="360" alt="clembot /birthday example" src="https://github.com/Iemontine/cIembot/assets/95956143/846c43b4-e381-4ff5-83f2-af4eb70a5140">
 
 ## /check ``task``
 Simulates a silly DND skillcheck!
