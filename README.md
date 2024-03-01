@@ -37,7 +37,7 @@ Adds impact font bottom text to an image or gif, using the PIL image manipulatio
 
 ## image analysis commands
 
-# Chatbot Functionality
+# Generative Chat Functionality
 This implementation manipulates the way dictionary inputs are fed into the OpenAI API to ensure chat features maintain its personality and instructions, essentially by constantly and token-minimally 'reminding' the LLM to act or respond a certain way. 
 
 * If you are interested, the default, optimized personality module used by clembot in the example images given is:
@@ -56,7 +56,7 @@ An example of a single-user interaction with clembot:
 
 An example of a long-form interaction with clembot:
 
-![An example of a long-form interaction with clembot](https://cdn.discordapp.com/attachments/919696451876028518/1157779299009560647/image.png?ex=6519d97f&is=651887ff&hm=bfb586c9ccce23d903eb10cfa53266a05e985cab3eedf3b3595d79aa9b155916&)
+![An example of a long-form interaction with clembot](https://github.com/Iemontine/cIembot/assets/95956143/c328275a-778e-4eeb-958a-9318cc66a13b)
 
 clembot is also able to distinguish between and converse with multiple users at once:
 
