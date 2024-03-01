@@ -28,6 +28,10 @@ An example of a multi-user interaction with clembot:
 
 <img width="750" alt="An example of a multi-user interaction with clembot" src="https://github.com/Iemontine/cIembot/assets/95956143/ffbf6775-536e-4df9-9af3-ea0ceafefadc">
 
+clembot is also able to distinguish between and converse with multiple users at once:
+
+<img width="500" alt="An example of a multi-user interaction with clembot" src="https://github.com/Iemontine/cIembot/assets/95956143/5a1d9cf7-49c7-4201-9e93-72bbc704f6f4">
+
 # Commands
 
 ## reminder system
@@ -43,7 +47,7 @@ Clembot is able to maintain and remind users per the request using the following
 <img width="450" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/9c971b01-8ce8-43f0-9f0e-6c39f7d0709d">
 <img width="450" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/d339ee3c-de1a-4646-8cd9-e52835148c0c">
 
-## image analysis commands
+## image manipulating commands
 ### /generate ``prompt``
 A direct API call to DALL-E 3 image generation, returning the result of the prompt.
 
@@ -68,7 +72,13 @@ Using Microsoft Azure's computer vision object-detection API, a transparent mask
    * Replacing the flamingo with a swimming dog:
  
      <img width="300" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/186230a7-6c6c-49e2-adf3-d08ebbf0487c">
-     
+
+## /m ``music commands``
+There are several commands that allow users to play music in their current voice channel. 
+* Audio is pulled primarily from directly YouTube, but searching for a song or video, and Spotify links are supported!
+* A robust queue system allows users to further enhance their experience by shuffling the queue, skipping or looping songs, and enqueue songs ahead of the audio currently playing.
+
+<img width="360" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/f6d63872-6ea5-48f0-86b6-7686ca7e94e0">
 
 ### /variate ``image``
 A direct API call to DALL-E 2 image manipulation models allows users to obtain AI-generated variations of existing images.
@@ -83,13 +93,6 @@ Simulates a silly DND skillcheck!
 
 <img width="360" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/ea988841-2bc4-4403-b4ba-648c6f1db25a">
 
-## /m ``music commands``
-There are several commands that allow users to play music in their current voice channel. 
-* Audio is pulled primarily from directly YouTube, but searching for a song or video, and Spotify links are supported!
-* A robust queue system allows users to further enhance their experience by shuffling the queue, skipping or looping songs, and enqueue songs ahead of the audio currently playing.
-
-<img width="360" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/f6d63872-6ea5-48f0-86b6-7686ca7e94e0">
-
 ## /download ``link to mp3/mp4``
 Primarily used to assist in making assets for video editing more accessible, the download commands take links to videos, mp3s, or mp4s, and returns an embedded link to the resource.
 
@@ -102,7 +105,5 @@ Adds impact font bottom text to an image or gif, using the PIL image manipulatio
 <img width="360" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/2402df2d-0502-4349-858c-cd7dbfe0e7d9"> <br/><br/>
 <img width="360" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/e1e286e2-10cc-4ec9-b806-fb1b999b6032">
 
-
-clembot is also able to distinguish between and converse with multiple users at once:
-
-<img width="500" alt="An example of a multi-user interaction with clembot" src="https://github.com/Iemontine/cIembot/assets/95956143/5a1d9cf7-49c7-4201-9e93-72bbc704f6f4">
+# Implementation
+Basic Discord bot setup is in `main.py`
