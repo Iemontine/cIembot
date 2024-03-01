@@ -32,6 +32,14 @@ clembot is also able to distinguish between and converse with multiple users at 
 
    * <img width="500" alt="An example of a multi-user interaction with clembot" src="https://github.com/Iemontine/cIembot/assets/95956143/5a1d9cf7-49c7-4201-9e93-72bbc704f6f4">
 
+## Support for Function Calling AND Image Analysis
+
+As of right now, the gpt-4-turbo models are limited such that you cannot utilize function calling AND image analysis functionality using the same model.
+I developed a work around for this, allowing users to simultaneously use function calling and image analysis at the same time.
+As of right now, I've only built in weather-accessing API to show this off.
+
+   * <img width="500" alt="Function calling + image analysis" src="https://github.com/Iemontine/cIembot/assets/95956143/52e26476-bbb8-4cf1-88e4-e303aa484a38">
+
 # Commands
 
 ## reminder system
@@ -47,7 +55,7 @@ Clembot is able to maintain and remind users per the request using the following
 ### /reminders
    * <img width="450" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/9c971b01-8ce8-43f0-9f0e-6c39f7d0709d"> <img width="450" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/d339ee3c-de1a-4646-8cd9-e52835148c0c">
 
-## image manipulating commands
+## image generation commands
 ### /generate ``prompt``
 A direct API call to DALL-E 3 image generation, returning the result of the prompt.
 
