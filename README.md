@@ -68,4 +68,4 @@ An example of a long-form interaction with clembot:
 
 clembot is also able to distinguish between and converse with multiple users at once:
 
-<img width="650" alt="An example of a multi-user interaction with clembot" src="https://github.com/Iemontine/cIembot/assets/95956143/ffbf6775-536e-4df9-9af3-ea0ceafefadc">
+<img width="750" alt="An example of a multi-user interaction with clembot" src="https://github.com/Iemontine/cIembot/assets/95956143/ffbf6775-536e-4df9-9af3-ea0ceafefadc">
