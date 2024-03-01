@@ -18,19 +18,19 @@ This implementation manipulates the way dictionary inputs are fed into the OpenA
 
 An example of a single-user interaction with clembot:
 
-   <img width="650" alt="An example of a single-user interaction with clembot" src="https://github.com/Iemontine/cIembot/assets/95956143/1c2b1eb9-e781-40e4-8332-6d04005cba21">
+   * <img width="650" alt="An example of a single-user interaction with clembot" src="https://github.com/Iemontine/cIembot/assets/95956143/1c2b1eb9-e781-40e4-8332-6d04005cba21">
 
 An example of a long-form interaction with clembot:
 
-   <img width="500" alt="An example of a long-form interaction with clembot" src="https://github.com/Iemontine/cIembot/assets/95956143/c328275a-778e-4eeb-958a-9318cc66a13b">
+   * <img width="500" alt="An example of a long-form interaction with clembot" src="https://github.com/Iemontine/cIembot/assets/95956143/c328275a-778e-4eeb-958a-9318cc66a13b">
 
 An example of a multi-user interaction with clembot: 
 
-   <img width="750" alt="An example of a multi-user interaction with clembot" src="https://github.com/Iemontine/cIembot/assets/95956143/ffbf6775-536e-4df9-9af3-ea0ceafefadc">
+   * <img width="750" alt="An example of a multi-user interaction with clembot" src="https://github.com/Iemontine/cIembot/assets/95956143/ffbf6775-536e-4df9-9af3-ea0ceafefadc">
 
 clembot is also able to distinguish between and converse with multiple users at once:
 
-   <img width="500" alt="An example of a multi-user interaction with clembot" src="https://github.com/Iemontine/cIembot/assets/95956143/5a1d9cf7-49c7-4201-9e93-72bbc704f6f4">
+   * <img width="500" alt="An example of a multi-user interaction with clembot" src="https://github.com/Iemontine/cIembot/assets/95956143/5a1d9cf7-49c7-4201-9e93-72bbc704f6f4">
 
 # Commands
 
@@ -38,15 +38,14 @@ clembot is also able to distinguish between and converse with multiple users at 
 Clembot is able to maintain and remind users per the request using the following commands
 ### /remind ``time from now`` (ex: 1 hour 30 minutes, 1h30m, 1h 30m)
 
-   <img width="450" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/04e9ea92-0803-4491-afa4-dac66e4b1e8a">
+   * <img width="450" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/04e9ea92-0803-4491-afa4-dac66e4b1e8a">
 
 ### /reminddate ``exact date and time to remind``
    
-   <img width="450" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/f4a36e2b-5e17-4a80-8d9e-9fafcd397d00">
+   * <img width="450" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/f4a36e2b-5e17-4a80-8d9e-9fafcd397d00">
 
 ### /reminders
-   <img width="450" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/9c971b01-8ce8-43f0-9f0e-6c39f7d0709d">
-   <img width="450" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/d339ee3c-de1a-4646-8cd9-e52835148c0c">
+   * <img width="450" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/9c971b01-8ce8-43f0-9f0e-6c39f7d0709d"> <img width="450" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/d339ee3c-de1a-4646-8cd9-e52835148c0c">
 
 ## image manipulating commands
 ### /generate ``prompt``
