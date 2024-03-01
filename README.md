@@ -43,6 +43,8 @@ Clembot is able to maintain and remind users per the request using the following
 
 ### /reminders
 ![image](https://github.com/Iemontine/cIembot/assets/95956143/9c971b01-8ce8-43f0-9f0e-6c39f7d0709d)
+![image](https://github.com/Iemontine/cIembot/assets/95956143/d339ee3c-de1a-4646-8cd9-e52835148c0c)
+
 
 ## image analysis commands
 ### /generate ``prompt``
