@@ -103,4 +103,5 @@ Adds impact font bottom text to an image or gif, using the PIL image manipulatio
    * <img width="360" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/2402df2d-0502-4349-858c-cd7dbfe0e7d9"> <br/><br/> <img width="360" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/e1e286e2-10cc-4ec9-b806-fb1b999b6032">
 
 # Implementation
+Clembot is programmed in Python 3.11
 Basic Discord bot setup is in `main.py`, while large categories of commands (chat, music, reminder system, social/fun) are implemented in separate files. 
