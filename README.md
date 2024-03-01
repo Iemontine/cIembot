@@ -48,9 +48,18 @@ Clembot is able to maintain and remind users per the request using the following
 
 ## image analysis commands
 ### /generate ``prompt``
-A direct API cal to DALL-E 3 image generation, returning the result of the prompt.
+A direct API call to DALL-E 3 image generation, returning the result of the prompt.
+![image](https://github.com/Iemontine/cIembot/assets/95956143/86817e86-13aa-4ab6-8ee3-78e9e3a795e2)
 ### /replace ``image`` ``object to be replaced`` ``what to replace it with``
 Using Microsoft Azure's computer vision object-detection API, a transparent mask is created around an object allowing DALL-E image models to fill in the details with another object.
+* Example 1
+    ** Original image: ![image](https://github.com/Iemontine/cIembot/assets/95956143/e85734b0-caa0-4e0c-b986-0526455c9149)
+    ** Putting a pan in his hand: ![image](https://github.com/Iemontine/cIembot/assets/95956143/9a675fbf-0c1d-4376-91f2-ecff301a873f)
+    ** Replacing his head with a hamster: ![image](https://github.com/Iemontine/cIembot/assets/95956143/ba969004-9064-4b0a-8de7-816308410134)
+* Example 2
+    * Original image: ![image](https://github.com/Iemontine/cIembot/assets/95956143/75ddea0b-d16f-45e2-a273-473b467f33e4)
+    * Replacing the flamingo with a swimming dog: ![image](https://github.com/Iemontine/cIembot/assets/95956143/186230a7-6c6c-49e2-adf3-d08ebbf0487c)
+
 ### /variate ``image``
 A direct API call to DALL-E 2 image manipulation models allows users to obtain AI-generated variations of existing images.
 
