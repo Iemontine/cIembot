@@ -54,10 +54,13 @@ A direct API call to DALL-E 3 image generation, returning the result of the prom
 Using Microsoft Azure's computer vision object-detection API, a transparent mask is created around an object allowing DALL-E image models to fill in the details with another object.
 * Example 1
    * Original image:
+
      <img width="500" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/e85734b0-caa0-4e0c-b986-0526455c9149">
    * Putting a pan in his hand:
+
      <img width="500" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/9a675fbf-0c1d-4376-91f2-ecff301a873f">
    * Replacing his head with a hamster:
+
      <img width="500" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/ba969004-9064-4b0a-8de7-816308410134">
 * Example 2
    * Original image: ![image](https://github.com/Iemontine/cIembot/assets/95956143/75ddea0b-d16f-45e2-a273-473b467f33e4)
