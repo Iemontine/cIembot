@@ -20,7 +20,7 @@ This implementation manipulates the way dictionary inputs are fed into the OpenA
 
 ### An example of a single-user interaction with clembot:
 
-- <img width="650" alt="An example of a single-user interaction with clembot" src="https://github.com/Iemontine/cIembot/assets/95956143/1c2b1eb9-e781-40e4-8332-6d04005cba21">
+  <img width="650" alt="An example of a single-user interaction with clembot" src="https://github.com/Iemontine/cIembot/assets/95956143/1c2b1eb9-e781-40e4-8332-6d04005cba21">
 
 ### An example of a long-form interaction with clembot:
 
