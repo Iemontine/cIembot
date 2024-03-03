@@ -147,4 +147,4 @@ Clembot is programmed in Python 3.10.2 notably using the following libraries, ea
 - PyDictionary==2.0.1
 - PyNaCl==1.5.0
 
-Basic Discord bot setup is in `main.py`, while large categories of commands (chat, music, reminder system, social/fun) are implemented in separate files.
+Basic Discord bot setup is in `main.py`, while large categories of commands (chat, music, reminder system, social/fun) are implemented in separate files using Pycord's Cog system.
