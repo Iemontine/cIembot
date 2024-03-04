@@ -2,7 +2,7 @@
 
 A Discord bot featuring AI chat, AI image analysis, numerous fun/useful social tools, link downloading, music playing, a reminder system, automatic birthday wishing, and more.
 
-This bot served as a proxy for things I am simply interested in coding, and there are several, sometimes completely unrelated, functionality built into it over the years.
+This bot serves as a proxy for things I am simply interested in coding, and there are several, sometimes completely unrelated, functionality built into it over the years since I started development in December 2021.
 
 # Generative Chat Functionality
 
