@@ -1,6 +1,6 @@
 # clembot
 
-A Discord bot featuring AI chat, AI image analysis, numerous fun/useful social tools, link downloading, music playing, a reminder system, automatic birthday wishing, and more.
+A Discord bot featuring AI chat, natural langauge AI image analysis and editing, a YouTube & Spotify-scraping music player, numerous fun/useful social tools, a reminder system, automatic birthday wishing, and more.
 
 This bot serves as a proxy for things I am simply interested in coding, and there are several, sometimes completely unrelated, functionality built into it over the years since I started development in December 2021.
 
@@ -18,13 +18,17 @@ This implementation manipulates the way dictionary inputs are fed into the OpenA
   ```
 - These examples are running on the gpt-4-turbo model. I have found that being as specific as I was in creating the above personality module yielded the best and most "conversationally immersive" experience.
 
+## Support for Function Calling AND Image Analysis
+
+As of right now, the gpt-4o-2024-05-13 models are limited such that you cannot utilize function calling AND image analysis functionality using the same model.
+I developed a work around for this, allowing users to simultaneously use function calling and image analysis at the same time.
+As of right now, I've only built in weather-accessing API to show this off.
+
+- <img width="700" alt="Function calling + image analysis" src="https://github.com/Iemontine/cIembot/assets/95956143/bba6c2a6-4c60-46af-aaaa-4287590c24f7">
+
 ### An example of a single-user interaction with clembot:
 
 - <img width="650" alt="An example of a single-user interaction with clembot" src="https://github.com/Iemontine/cIembot/assets/95956143/1c2b1eb9-e781-40e4-8332-6d04005cba21">
-
-### An example of a long-form interaction with clembot:
-
-- <img width="500" alt="An example of a long-form interaction with clembot" src="https://github.com/Iemontine/cIembot/assets/95956143/c328275a-778e-4eeb-958a-9318cc66a13b">
 
 ### An example of a multi-user interaction with clembot:
 
@@ -34,15 +38,12 @@ This implementation manipulates the way dictionary inputs are fed into the OpenA
 
 - <img width="500" alt="An example of a multi-user interaction with clembot" src="https://github.com/Iemontine/cIembot/assets/95956143/5a1d9cf7-49c7-4201-9e93-72bbc704f6f4">
 
-## Support for Function Calling AND Image Analysis
-
-As of right now, the gpt-4-turbo models are limited such that you cannot utilize function calling AND image analysis functionality using the same model.
-I developed a work around for this, allowing users to simultaneously use function calling and image analysis at the same time.
-As of right now, I've only built in weather-accessing API to show this off.
-
-- <img width="700" alt="Function calling + image analysis" src="https://github.com/Iemontine/cIembot/assets/95956143/bba6c2a6-4c60-46af-aaaa-4287590c24f7">
-
 # Commands
+
+## activity tracking system
+Simple database management, storing and tracking the activities of hundreds of users, allowing them to check time spent in different activities, including trackable apps:
+
+- <img width="500" alt="Example of the activity tracker" src="https://github.com/user-attachments/assets/87b46676-9b33-447c-98d2-e2490005dfdb">
 
 ## reminder system
 
@@ -85,16 +86,6 @@ Using Microsoft Azure's computer vision object-detection API, a transparent mask
   - Replacing his head with a hamster:
 
     - <img width="300" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/ba969004-9064-4b0a-8de7-816308410134">
-
-- Example 2
-
-  - Original image:
-
-    - <img width="300" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/75ddea0b-d16f-45e2-a273-473b467f33e4">
-
-  - Replacing the flamingo with a swimming dog:
-
-    - <img width="300" alt="clembot /check example" src="https://github.com/Iemontine/cIembot/assets/95956143/186230a7-6c6c-49e2-adf3-d08ebbf0487c">
 
 ## /m `music commands`
 
